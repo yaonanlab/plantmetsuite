@@ -1,0 +1,113 @@
+APP	工具	分类	ID	工具描述	图像	按钮	风格	分类
+app2	Two-table merge	biaogegeshi	box_biaogegeshi1	Two-table merge	app2.png	box_biaogegeshi1_button2	danger5	
+app73	Table transposition	biaogegeshi	box_biaogegeshi10	Table transposition	app73.png	box_biaogegeshi10_button2	danger5	
+app74	SAM Flag	biaogegeshi	box_biaogegeshi11	SAM Flag	app74.png	box_biaogegeshi11_button2	danger5	genome17
+app89	Wide2Long	biaogegeshi	box_biaogegeshi12	Wide2Long	app89.png	box_biaogegeshi12_button2	danger5	
+app90	Long2wide	biaogegeshi	box_biaogegeshi13	Long2wide	app90.png	box_biaogegeshi13_button2	danger5	
+app93	msconvert	biaogegeshi	box_biaogegeshi14	msconvert	app93.png	box_biaogegeshi14_button2	danger5	
+app94	xcms	biaogegeshi	box_biaogegeshi15	xcms	app94.png	box_biaogegeshi15_button2	danger5	
+app9	GTF Extraction Information	biaogegeshi	box_biaogegeshi2	GTF Extraction Information	app9.png	box_biaogegeshi2_button2	danger5	genome18
+app16	SVG conversion	biaogegeshi	box_biaogegeshi3	SVG conversion	app16.png	box_biaogegeshi3_button2	danger5	
+app22	GFF3 to GTF	biaogegeshi	box_biaogegeshi4	GFF3 to GTF	app22.png	box_biaogegeshi4_button2	danger5	genome19
+app23	DICT file construction	biaogegeshi	box_biaogegeshi5	DICT file construction	app23.png	box_biaogegeshi5_button2	danger5	genome20
+app24	GTF Extraction FASTA	biaogegeshi	box_biaogegeshi6	GTF Extraction FASTA	app24.png	box_biaogegeshi6_button2	danger5	genome21
+app33	VCF extraction of SNPs	biaogegeshi	box_biaogegeshi7	VCF extraction of SNPs	app33.png	box_biaogegeshi7_button2	danger5	genome22
+app71	Gene ID Conversion	biaogegeshi	box_biaogegeshi8	Gene ID Conversion	app71.png	box_biaogegeshi8_button2	danger5	transcriptome01,genome01,proteome01
+app72	Table Extract	biaogegeshi	box_biaogegeshi9	Table Extract	app72.png	box_biaogegeshi9_button2	danger5	
+app79	Dynamic Scatter Plot	dongtaihuitu	box_dongtaihuitu1	Dynamic Scatter Plot	app79.png	box_dongtaihuitu1_button2	danger9	
+app97	MetAnno	gongnengzhushi	box_gongnengzhushi1	MetAnno	app97.png	box_gongnengzhushi1_button2	danger8	metabolome01
+app106	MS2plot	gongnengzhushi	box_gongnengzhushi10	MS2plot	app106.png	box_gongnengzhushi10_button2	danger8	metabolome02
+app107	Heatmap	gongnengzhushi	box_gongnengzhushi11	Heatmap	app107.png	box_gongnengzhushi11_button2	danger8	metabolome03
+app108	VennDiagram	gongnengzhushi	box_gongnengzhushi12	VennDiagram	app108.png	box_gongnengzhushi12_button2	danger8	metabolome04
+app109	VolcanoPlot	gongnengzhushi	box_gongnengzhushi13	VolcanoPlot	app109.png	box_gongnengzhushi13_button2	danger8	metabolome05
+app110	PCAplot	gongnengzhushi	box_gongnengzhushi14	PCAplot	app110.png	box_gongnengzhushi14_button2	danger8	metabolome06
+app111	ClusterPlot	gongnengzhushi	box_gongnengzhushi15	ClusterPlot	app111.png	box_gongnengzhushi15_button2	danger8	metabolome07
+app112	TTest	gongnengzhushi	box_gongnengzhushi16	TTest	app112.png	box_gongnengzhushi16_button2	danger8	metabolome08
+app113	WilcoxonTest	gongnengzhushi	box_gongnengzhushi17	WilcoxonTest	app113.png	box_gongnengzhushi17_button2	danger8	metabolome09
+app114	ChisqTest	gongnengzhushi	box_gongnengzhushi18	ChisqTest	app114.png	box_gongnengzhushi18_button2	danger8	metabolome10
+app115	Fisher'sTest	gongnengzhushi	box_gongnengzhushi19	Fisher'sTest	app115.png	box_gongnengzhushi19_button2	danger8	metabolome11
+app98	msconvert	gongnengzhushi	box_gongnengzhushi2	msconvert	app98.png	box_gongnengzhushi2_button2	danger8	metabolome12
+app116	MultiGroupTest	gongnengzhushi	box_gongnengzhushi20	MultiGroupTest	app116.png	box_gongnengzhushi20_button2	danger8	metabolome13
+app117	BarPlot	gongnengzhushi	box_gongnengzhushi21	BarPlot	app117.png	box_gongnengzhushi21_button2	danger8	metabolome14
+app118	LinePlot	gongnengzhushi	box_gongnengzhushi22	LinePlot	app118.png	box_gongnengzhushi22_button2	danger8	metabolome15
+app119	PiePlot	gongnengzhushi	box_gongnengzhushi23	PiePlot	app119.png	box_gongnengzhushi23_button2	danger8	metabolome16
+app120	BoxPlot	gongnengzhushi	box_gongnengzhushi24	BoxPlot	app120.png	box_gongnengzhushi24_button2	danger8	metabolome17
+app99	xcms	gongnengzhushi	box_gongnengzhushi3	xcms	app99.png	box_gongnengzhushi3_button2	danger8	metabolome18
+app100	MetCleaning	gongnengzhushi	box_gongnengzhushi4	MetCleaning	app100.png	box_gongnengzhushi4_button2	danger8	metabolome19
+app101	MetNorm	gongnengzhushi	box_gongnengzhushi5	MetNorm	app101.png	box_gongnengzhushi5_button2	danger8	metabolome20
+app102	MetDiff	gongnengzhushi	box_gongnengzhushi6	MetDiff	app102.png	box_gongnengzhushi6_button2	danger8	metabolome21
+app103	MetOpls	gongnengzhushi	box_gongnengzhushi7	MetOpls	app103.png	box_gongnengzhushi7_button2	danger8	metabolome22
+app104	MetPathway	gongnengzhushi	box_gongnengzhushi8	MetPathway	app104.png	box_gongnengzhushi8_button2	danger8	metabolome23
+app105	MS1plot	gongnengzhushi	box_gongnengzhushi9	MS1plot	app105.png	box_gongnengzhushi9_button2	danger8	metabolome24
+app1	Heatmap	huitugongju	box_huitugongju1	Heatmap	app1.png	box_huitugongju1_button2	danger4	transcriptome02,genome02,proteome02
+app38	Scatter diagram	huitugongju	box_huitugongju10	Scatter diagram	app38.png	box_huitugongju10_button2	danger4	
+app39	Pie chart	huitugongju	box_huitugongju11	Pie chart	app39.png	box_huitugongju11_button2	danger4	transcriptome03,genome03,proteome03
+app40	Histogram	huitugongju	box_huitugongju12	Histogram	app40.png	box_huitugongju12_button2	danger4	
+app41	Box line plot	huitugongju	box_huitugongju13	Box line plot	app41.png	box_huitugongju13_button2	danger4	transcriptome04,genome04,proteome04
+app42	Violin plot	huitugongju	box_huitugongju14	Violin plot	app42.png	box_huitugongju14_button2	danger4	
+app43	Bubble diagram	huitugongju	box_huitugongju15	Bubble diagram	app43.png	box_huitugongju15_button2	danger4	transcriptome05,genome05,proteome05
+app44	Correlation plot	huitugongju	box_huitugongju16	Correlation plot	app44.png	box_huitugongju16_button2	danger4	transcriptome06,genome06,proteome06
+app45	UpSet Chart	huitugongju	box_huitugongju17	UpSet Chart	app45.png	box_huitugongju17_button2	danger4	transcriptome07,genome07,proteome07
+app46	Density map	huitugongju	box_huitugongju18	Density map	app46.png	box_huitugongju18_button2	danger4	
+app47	Cloud and rain map	huitugongju	box_huitugongju19	Cloud and rain map	app47.png	box_huitugongju19_button2	danger4	transcriptome08
+app4	Venn diagram	huitugongju	box_huitugongju2	Venn diagram	app4.png	box_huitugongju2_button2	danger4	transcriptome09,genome08,proteome08
+app48	Pod Plot	huitugongju	box_huitugongju20	Pod Plot	app48.png	box_huitugongju20_button2	danger4	
+app49	Dot Plot	huitugongju	box_huitugongju21	Dot Plot	app49.png	box_huitugongju21_button2	danger4	
+app50	Lollipop diagram	huitugongju	box_huitugongju22	Lollipop diagram	app50.png	box_huitugongju22_button2	danger4	
+app51	Cleveland plot	huitugongju	box_huitugongju23	Cleveland plot	app51.png	box_huitugongju23_button2	danger4	
+app52	Classification bar chart	huitugongju	box_huitugongju24	Classification bar chart	app52.png	box_huitugongju24_button2	danger4	transcriptome10,genome09,proteome09
+app53	QQ diagram	huitugongju	box_huitugongju25	QQ diagram	app53.png	box_huitugongju25_button2	danger4	genome23
+app54	Deviation Chart	huitugongju	box_huitugongju26	Deviation Chart	app54.png	box_huitugongju26_button2	danger4	
+app55	Error Line Plot	huitugongju	box_huitugongju27	Error Line Plot	app55.png	box_huitugongju27_button2	danger4	
+app56	Strip Chart	huitugongju	box_huitugongju28	Strip Chart	app56.png	box_huitugongju28_button2	danger4	
+app57	Doughnut diagram	huitugongju	box_huitugongju29	Doughnut diagram	app57.png	box_huitugongju29_button2	danger4	
+app5	Volcano Diagram	huitugongju	box_huitugongju3	Volcano Diagram	app5.png	box_huitugongju3_button2	danger4	transcriptome11,genome10,proteome10
+app58	Regression Plot	huitugongju	box_huitugongju30	Regression Plot	app58.png	box_huitugongju30_button2	danger4	transcriptome12
+app59	MA Plot	huitugongju	box_huitugongju31	MA Plot	app59.png	box_huitugongju31_button2	danger4	transcriptome13
+app60	Paired Box	huitugongju	box_huitugongju32	Paired Box	app60.png	box_huitugongju32_button2	danger4	transcriptome14,genome11,proteome11
+app61	Plotting Tables	huitugongju	box_huitugongju33	Plotting Tables	app61.png	box_huitugongju33_button2	danger4	
+app62	Edge scatter	huitugongju	box_huitugongju34	Edge scatter	app62.png	box_huitugongju34_button2	danger4	
+app63	Rose diagram	huitugongju	box_huitugongju35	Rose diagram	app63.png	box_huitugongju35_button2	danger4	
+app64	Swarm Plot	huitugongju	box_huitugongju36	Swarm Plot	app64.png	box_huitugongju36_button2	danger4	
+app65	Circos diagram	huitugongju	box_huitugongju37	Circos diagram	app65.png	box_huitugongju37_button2	danger4	
+app66	Broken bar	huitugongju	box_huitugongju38	Broken bar	app66.png	box_huitugongju38_button2	danger4	transcriptome15,genome12,proteome12
+app67	Krona Chart	huitugongju	box_huitugongju39	Krona Chart	app67.png	box_huitugongju39_button2	danger4	
+app6	PCA plot	huitugongju	box_huitugongju4	PCA plot	app6.png	box_huitugongju4_button2	danger4	transcriptome16,genome13,proteome13
+app80	RNA-Protein	huitugongju	box_huitugongju40	RNA-Protein	app80.png	box_huitugongju40_button2	danger4	transcriptome17,proteome17
+app81	RNA-Met	huitugongju	box_huitugongju41	RNA-Met	app81.png	box_huitugongju41_button2	danger4	transcriptome18
+app82	Sankey diagram	huitugongju	box_huitugongju42	Sankey diagram	app82.png	box_huitugongju42_button2	danger4	
+app83	Ternary diagram	huitugongju	box_huitugongju43	Ternary diagram	app83.png	box_huitugongju43_button2	danger4	genome24
+app84	Area plot	huitugongju	box_huitugongju44	Area plot	app84.png	box_huitugongju44_button2	danger4	
+app85	Radar Plot	huitugongju	box_huitugongju45	Radar Plot	app85.png	box_huitugongju45_button2	danger4	
+app86	3D scatter plot	huitugongju	box_huitugongju46	3D scatter plot	app86.png	box_huitugongju46_button2	danger4	
+app87	Air bubble diagram	huitugongju	box_huitugongju47	Air bubble diagram	app87.png	box_huitugongju47_button2	danger4	transcriptome19,genome14,proteome14
+app88	Cumulative Distribution Curve	huitugongju	box_huitugongju48	Cumulative Distribution Curve	app88.png	box_huitugongju48_button2	danger4	
+app91	Waterfall	huitugongju	box_huitugongju49	Waterfall	app91.png	box_huitugongju49_button2	danger4	genome25
+app15	Cluster Maps	huitugongju	box_huitugongju5	Cluster Maps	app15.png	box_huitugongju5_button2	danger4	
+app92	Ms2Plot	huitugongju	box_huitugongju50	Ms2Plot	app92.png	box_huitugongju50_button2	danger4	
+app96	IQTREE	huitugongju	box_huitugongju51	IQTREE	app96.png	box_huitugongju51_button2	danger4	genome26
+app19	Base Distribution Map	huitugongju	box_huitugongju6	Base Distribution Map	app19.png	box_huitugongju6_button2	danger4	
+app34	Bar graphs	huitugongju	box_huitugongju7	Bar graphs	app34.png	box_huitugongju7_button2	danger4	
+app35	Folding line chart	huitugongju	box_huitugongju8	Folding line chart	app35.png	box_huitugongju8_button2	danger4	transcriptome20
+app7	Statistical GC content	tongjijianyan	box_tongjijianyan1	Statistical GC content	app7.png	box_tongjijianyan1_button2	danger7	genome27
+app8	Statistical sequence length	tongjijianyan	box_tongjijianyan2	Statistical sequence length	app8.png	box_tongjijianyan2_button2	danger7	genome28
+app13	Statistical N-value	tongjijianyan	box_tongjijianyan3	Statistical N-value	app13.png	box_tongjijianyan3_button2	danger7	genome29
+app18	Statistical FASTQ file	tongjijianyan	box_tongjijianyan4	Statistical FASTQ file	app18.png	box_tongjijianyan4_button2	danger7	genome30
+app68	DEseq2	tongjijianyan	box_tongjijianyan5	DEseq2	app68.png	box_tongjijianyan5_button2	danger7	transcriptome21
+app69	DEseq_no_replicate	tongjijianyan	box_tongjijianyan6	DEseq_no_replicate	app69.png	box_tongjijianyan6_button2	danger7	transcriptome22
+app70	DEseq	tongjijianyan	box_tongjijianyan7	DEseq	app70.png	box_tongjijianyan7_button2	danger7	transcriptome23
+app75	MetNorm	tongjijianyan	box_tongjijianyan8	MetNorm	app75.png	box_tongjijianyan8_button2	danger7	
+app76	MetCleaning	tongjijianyan	box_tongjijianyan9	MetCleaning	app76.png	box_tongjijianyan9_button2	danger7	
+app3	Sequence one row	xuliechuli	box_xuliechuli1	Sequence one row	app3.png	box_xuliechuli1_button2	danger6	genome31
+app26	Longest Transcript	xuliechuli	box_xuliechuli10	Longest Transcript	app26.png	box_xuliechuli10_button2	danger6	transcriptome24
+app77	MUSCLE	xuliechuli	box_xuliechuli11	MUSCLE	app77.png	box_xuliechuli11_button2	danger6	genome32,proteome16
+app78	DNA&RNA 	xuliechuli	box_xuliechuli12	DNA&RNA 	app78.png	box_xuliechuli12_button2	danger6	genome33
+app95	Blast	xuliechuli	box_xuliechuli13	Blast	app95.png	box_xuliechuli13_button2	danger6	transcriptome25,genome15,proteome15
+app10	Sequence formatting	xuliechuli	box_xuliechuli2	Sequence formatting	app10.png	box_xuliechuli2_button2	danger6	genome34
+app11	CDS to protein	xuliechuli	box_xuliechuli3	CDS to protein	app11.png	box_xuliechuli3_button2	danger6	genome35
+app12	Sequence length filter	xuliechuli	box_xuliechuli4	Sequence length filter	app12.png	box_xuliechuli4_button2	danger6	transcriptome26,genome16
+app14	Sequence interception	xuliechuli	box_xuliechuli5	Sequence interception	app14.png	box_xuliechuli5_button2	danger6	genome36
+app17	Sequence reverse complementarity	xuliechuli	box_xuliechuli6	Sequence reverse complementarity	app17.png	box_xuliechuli6_button2	danger6	transcriptome27
+app20	FASTQ QC (single-end)	xuliechuli	box_xuliechuli7	FASTQ QC (single-end)	app20.png	box_xuliechuli7_button2	danger6	genome37
+app21	FASTQ QC (pair-end)	xuliechuli	box_xuliechuli8	FASTQ QC (pair-end)	app21.png	box_xuliechuli8_button2	danger6	genome38
+app25	Sequence name simple	xuliechuli	box_xuliechuli9	Sequence name simple	app25.png	box_xuliechuli9_button2	danger6	genome39
